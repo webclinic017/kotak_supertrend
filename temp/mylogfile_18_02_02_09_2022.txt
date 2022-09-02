@@ -1,0 +1,37 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x0000012F9FCCDBE0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_02_09_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_02_09_2022.txt'}}
+user data loaded.......... 2022-09-02 18:03:16.295181
+
+
+ 0 Run Count : Time - 2022-09-02 18:03:16.295181 
+SBIN 536.0 ['up' 'up' 'down' 'down']
+opening fresh position
+(-22)
+Reason: MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0
+HTTP response body: {"fault":{"code":-22,"description":"-","message":"MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0"}}
+
+RELIANCE 2527.95 ['down' 'down' 'down' 'down']
+opening fresh position
+(-22)
+Reason: MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0
+HTTP response body: {"fault":{"code":-22,"description":"-","message":"MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0"}}
+
+
+
+ 1 Run Count : Time - 2022-09-02 18:03:21.310629 
+SBIN 536.0 ['up' 'up' 'down' 'down']
+opening fresh position
+(-22)
+Reason: MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0
+HTTP response body: {"fault":{"code":-22,"description":"-","message":"MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0"}}
+
+RELIANCE 2527.95 ['down' 'down' 'down' 'down']
+opening fresh position
+(-22)
+Reason: MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0
+HTTP response body: {"fault":{"code":-22,"description":"-","message":"MIS Order quantity has to be less than total available quantity. Order qty 1--Available qty 0"}}
+
+
+
+ 2 Run Count : Time - 2022-09-02 18:03:26.323275 

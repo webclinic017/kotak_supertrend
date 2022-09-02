@@ -1,0 +1,96 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x000002EADAEF85B0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_30_08_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_30_08_2022.txt'}}
+user data loaded.......... 2022-08-30 09:06:12.363174
+     Waiting... 2022-08-30 09:06:12.378806
+     Waiting... 2022-08-30 09:06:13.384476
+     Waiting... 2022-08-30 09:06:14.389143
+     Waiting... 2022-08-30 09:06:15.396536
+     Waiting... 2022-08-30 09:06:16.408556
+     Waiting... 2022-08-30 09:06:17.410794
+     Waiting... 2022-08-30 09:06:18.416339
+     Waiting... 2022-08-30 09:06:19.417378
+     Waiting... 2022-08-30 09:06:20.431434
+     Waiting... 2022-08-30 09:06:21.433013
+     Waiting... 2022-08-30 09:06:22.454866
+     Waiting... 2022-08-30 09:06:23.455657
+     Waiting... 2022-08-30 09:06:24.463989
+     Waiting... 2022-08-30 09:06:25.477690
+     Waiting... 2022-08-30 09:06:26.486863
+     Waiting... 2022-08-30 09:06:27.487584
+     Waiting... 2022-08-30 09:06:28.493937
+     Waiting... 2022-08-30 09:06:29.494916
+     Waiting... 2022-08-30 09:06:30.496749
+     Waiting... 2022-08-30 09:06:31.496822
+     Waiting... 2022-08-30 09:06:32.498305
+     Waiting... 2022-08-30 09:06:33.513808
+     Waiting... 2022-08-30 09:06:34.515625
+     Waiting... 2022-08-30 09:06:35.515694
+     Waiting... 2022-08-30 09:06:36.516058
+     Waiting... 2022-08-30 09:06:37.531426
+     Waiting... 2022-08-30 09:06:38.544531
+     Waiting... 2022-08-30 09:06:39.544585
+     Waiting... 2022-08-30 09:06:40.545744
+     Waiting... 2022-08-30 09:06:41.561150
+     Waiting... 2022-08-30 09:06:42.569305
+     Waiting... 2022-08-30 09:06:43.577978
+     Waiting... 2022-08-30 09:06:44.590960
+     Waiting... 2022-08-30 09:06:45.593030
+     Waiting... 2022-08-30 09:06:46.598811
+     Waiting... 2022-08-30 09:06:47.610641
+     Waiting... 2022-08-30 09:06:48.618030
+     Waiting... 2022-08-30 09:06:49.629195
+     Waiting... 2022-08-30 09:06:50.640859
+     Waiting... 2022-08-30 09:06:51.656376
+     Waiting... 2022-08-30 09:06:52.658054
+     Waiting... 2022-08-30 09:06:53.664082
+     Waiting... 2022-08-30 09:06:54.670207
+     Waiting... 2022-08-30 09:06:55.682355
+     Waiting... 2022-08-30 09:06:56.682603
+     Waiting... 2022-08-30 09:06:57.696225
+     Waiting... 2022-08-30 09:06:58.704970
+     Waiting... 2022-08-30 09:06:59.705065
+
+
+ 0 Run Count : Time - 2022-08-30 09:07:00.712811 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+opening fresh position
+Order :  {'Success': {'NSE': {'message': 'Your Order has been Placed and Forwarded to the Exchange: 2220830001042.', 'orderId': 2220830001042, 'price': 0, 'quantity': 1, 'tag': 'string'}}} SELL SBIN quantity: 1 2022-08-30 09:07:02.680596
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+opening fresh position
+Order :  {'Success': {'NSE': {'message': 'Your Order has been Placed and Forwarded to the Exchange: 2220830001044.', 'orderId': 2220830001044, 'price': 0, 'quantity': 1, 'tag': 'string'}}} BUY RELIANCE quantity: 1 2022-08-30 09:07:04.429819
+sell orders list ['SBIN']
+
+
+ 1 Run Count : Time - 2022-08-30 09:07:05.715804 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+sell orders list ['SBIN']
+
+
+ 2 Run Count : Time - 2022-08-30 09:07:10.718360 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+sell orders list ['SBIN']
+
+
+ 3 Run Count : Time - 2022-08-30 09:07:15.725223 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+sell orders list ['SBIN']
+
+
+ 4 Run Count : Time - 2022-08-30 09:07:20.725469 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+sell orders list ['SBIN']
+
+
+ 5 Run Count : Time - 2022-08-30 09:07:25.726629 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+sell orders list ['SBIN']
+
+
+ 6 Run Count : Time - 2022-08-30 09:07:30.729014 
+SBIN 514.85 ['up' 'up' 'up' 'down']

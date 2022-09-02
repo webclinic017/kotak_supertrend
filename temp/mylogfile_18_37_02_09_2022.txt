@@ -1,0 +1,4 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x000001FAA833DBE0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_02_09_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_02_09_2022.txt'}}
+user data loaded.......... 2022-09-02 18:38:02.711839

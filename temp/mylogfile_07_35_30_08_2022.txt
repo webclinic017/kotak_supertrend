@@ -1,0 +1,11 @@
+Exception when calling SessionApi->KSTradeApi: (500)
+Reason: Internal Server Error
+HTTP response body: {"fault":{"code":900900,"message":"Unclassified Authentication Failure","description":"Resource forbidden"}}
+
+
+Exception when calling SessionApi->login: name 'client' is not defined
+
+Exception when calling SessionApi->session_2fa: name 'client' is not defined
+
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_30_08_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_30_08_2022.txt'}}

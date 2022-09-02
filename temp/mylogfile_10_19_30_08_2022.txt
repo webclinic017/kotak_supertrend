@@ -1,0 +1,6 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x00000268856585B0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_30_08_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_30_08_2022.txt'}}
+user data loaded.......... 2022-08-30 10:19:57.403871
+511 Trading day closed, time is above stop_time
+squaring off all open positions

@@ -1,0 +1,22 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x0000025D0C04DBE0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_02_09_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_02_09_2022.txt'}}
+user data loaded.......... 2022-09-02 18:36:19.819987
+
+
+ 0 Run Count : Time - 2022-09-02 18:37:00.006826 
+SBIN 536.0 ['up' 'up' 'down' 'down']
+opening fresh position
+(555)
+Reason: Link to Stock Exchange DOWN., 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"Link to Stock Exchange DOWN., "}}
+
+RELIANCE 2527.95 ['down' 'down' 'down' 'down']
+opening fresh position
+(555)
+Reason: Link to Stock Exchange DOWN., 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"Link to Stock Exchange DOWN., "}}
+
+518 Trading day closed, time is above stop_time
+squaring off all open positions
+squared off all open positions

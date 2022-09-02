@@ -1,0 +1,10 @@
+Exception when calling SessionApi->KSTradeApi: (503)
+Reason: Service Unavailable
+HTTP response body: <html><body><h2>HTTP Server Error 503</h2><p>No available server to handle this request</p></body></html>
+
+
+Exception when calling SessionApi->login: name 'client' is not defined
+
+Exception when calling SessionApi->session_2fa: name 'client' is not defined
+
+existing token info imported

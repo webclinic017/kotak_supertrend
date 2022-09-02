@@ -1,0 +1,67 @@
+bot logged in <ks_api_client.ks_api.KSTradeApi object at 0x0000021E7A4485B0>
+existing token info imported
+{'Success': {'cash': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_Cash_30_08_2022.txt', 'fno': 'https://preferred.kotaksecurities.com/security/production/TradeApiInstruments_FNO_30_08_2022.txt'}}
+user data loaded.......... 2022-08-30 09:13:41.115772
+
+
+ 0 Run Count : Time - 2022-08-30 09:13:41.115772 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+
+
+ 1 Run Count : Time - 2022-08-30 09:13:46.125361 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+
+
+ 2 Run Count : Time - 2022-08-30 09:13:51.133327 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+
+
+ 3 Run Count : Time - 2022-08-30 09:13:56.134359 
+SBIN 514.85 ['up' 'up' 'up' 'down']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+RELIANCE 2597.65 ['up' 'up' 'up' 'up']
+opening fresh position
+(555)
+Reason: ACTION NOT ALLOWED IN CURRENT PHASE, 
+HTTP response body: {"fault":{"code":555,"description":"-","message":"ACTION NOT ALLOWED IN CURRENT PHASE, "}}
+
+511 Trading day closed, time is above stop_time
+squaring off all open positions
+closing position SBIN
